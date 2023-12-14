@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Portfolio Page</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div id="content"></div>
+    <script>
+        fetch('Adarsh_Balan_Portfolio.md')
+            .then(response => response.text())
+            .then(text => document.getElementById('content').innerHTML = marked.parse(text));
+    </script>
+</body>
+</html>
