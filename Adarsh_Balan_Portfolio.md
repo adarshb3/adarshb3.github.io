@@ -1,6 +1,6 @@
 
-# Adarsh Balan Portfolio
-## Research Associate and AMPBA Class of 2023 at ISB
+# Adarsh Balan 
+## Research Associate, AMPBA Class of 2023 at ISB Hyderabad
 
 Hello, I'm Adarsh Balan, an innovative and driven professional with extensive experience in machine learning, data engineering, and advanced AI technologies. With a strong foundation in quantitative analysis and a knack for implementing cutting-edge technology solutions, I have a proven track record of success in complex project environments.
 
