@@ -55,7 +55,7 @@ I am currently seeking to leverage my expertise in data science and machine lear
 
 ---
 
-### Project Associate - Bharti Institute of Public Policy, ISB
+### Project Associate - Bharti Institute of Public Policy, ISB , Mohali
 **Jan 2023 - Sep 2023**
 
 *Key Deliverables:*
@@ -78,7 +78,7 @@ Project.
 
 ---
 
-### Senior Executive - Cost Accountant - MAX HEALTHCARE INSTITUTE LIMITED
+### Senior Executive - Cost Accountant - MAX HEALTHCARE INSTITUTE LIMITED , Mohali
 **Nov 2021 - Sep 2022**
 
 *Key Deliverables:*
@@ -135,9 +135,9 @@ I am deeply passionate about harnessing the power of technology to solve real-wo
 
 ## My Projects
 
-Explore my portfolio to learn more about my diverse range of projects in machine learning, image segmentation, financial analytics, complete end to end energy consumption forecasting project, and more. I am proud of the work I have accomplished and am excited to continue contributing to the field.
+Explore my portfolio to learn more about my diverse range of projects in machine learning, image segmentation, financial analytics, complete end to end Azure Auto ML energy consumption forecasting project, and more. I am proud of the work I have accomplished and am excited to continue contributing to the field.
 
-**GitHub Repository:** [Adarsh Balan's Projects](https://github.com/adarshb3
+**GitHub Repository:** (https://github.com/adarshb3
 Thank you for visiting my portfolio!
 
 ---
