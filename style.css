@@ -4,19 +4,30 @@ body {
     padding: 20px;
     max-width: 700px;
     margin: auto;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4; /* Light grey background */
 }
 
 h1, h2, h3 {
-    color: #333;
+    color: #333; /* Dark grey for headings */
+}
+
+/* Style for main headings (h1) - using dark blue */
+h1 {
+    color: #003366;
+}
+
+/* Style for subheadings (h2, h3) - using light blue */
+h2, h3 {
+    color: #007bff;
 }
 
 a {
-    color: #007bff;
+    color: #0056b3; /* Dark blue for links */
     text-decoration: none;
 }
 
 a:hover {
+    color: #0096d6; /* Lighter blue for hover effect */
     text-decoration: underline;
 }
 
