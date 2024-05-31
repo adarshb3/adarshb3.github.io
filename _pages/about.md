@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello, I'm Adarsh!"
+title: "👋 Hello, I'm Adarsh Balan!"
 excerpt: ""
 author_profile: true
 redirect_from: 
