@@ -20,7 +20,7 @@ As someone deeply passionate about both accounting and machine learning, I am ex
 ## 🌐 Connect With Me
 I'd love to hear from you! Whether it’s about my research, my views on intersection areas of Accounting and AI/ML, or potential collaboration opportunities.
 
-* 📧 Email: adarshb3@gmail.com / adarsh_balan_ampba2023w@isb.edu / adarsh_balan@isb.edu
+* 📧 Email: adarshb3@gmail.com / adarsh_balan_ampba2023w@isb.edu / adarsh_balan@isb.edu / adarsh_balan2024@ampba.isb.edu
 * 👔 [LinkedIn](https://www.linkedin.com/in/adarshb3/)
 * 🖥️ [GitHub](https://github.com/adarshb3)
 
