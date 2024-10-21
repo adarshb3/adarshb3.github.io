@@ -11,10 +11,10 @@ author_profile: true
 I led the development of an application aimed at generating actionable insights in expansive business datasets to elevate financial governance. This project encompassed all phases, from liaising with sponsors and faculty mentors, high-level design (HLD) and low-level design (LLD), complete code implementation, large language model (LLM) and agent identification, and testing, to data orchestration and deployment. The result was an AI-powered solution that enhances anomaly detection in business processes using generative AI techniques.
 
 ---
-### Virtual Try-On Prototype with Flask, Twilio, and Gradio’s API using IDM-VTON Model. Built
+### Virtual Try-On Prototype with Flask, Twilio, and Gradio’s API using IDM-VTON Model.
 *Independent Project*
 
-A virtual try-on application where users can send images via WhatsApp to virtually try on garments, leveraging Nymbo’s Virtual Try-On Gradio’s API which uses IDM-VTON. Integrated Flask to manage the backend API, Twilio for WhatsApp-based interaction, and Ngrok for local server exposure. The system processes the user’s images and returns a virtual try-on result in real-time through WhatsApp.
+Built a virtual try-on application where users can send images via WhatsApp to virtually try on garments, leveraging Nymbo’s Virtual Try-On Gradio’s API which uses IDM-VTON. Integrated Flask to manage the backend API, Twilio for WhatsApp-based interaction, and Ngrok for local server exposure. The system processes the user’s images and returns a virtual try-on result in real-time through WhatsApp.
 
 ---
 
