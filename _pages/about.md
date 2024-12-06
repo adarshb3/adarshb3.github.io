@@ -23,4 +23,4 @@ I'd love to hear from you! Whether it’s about my research, my views on interse
 * 📧 Email: adarshb3@gmail.com / adarsh_balan_ampba2023w@isb.edu / adarsh_balan@isb.edu / adarsh_balan2024@ampba.isb.edu
 * 👔 [LinkedIn](https://www.linkedin.com/in/adarshb3/)
 * 🖥️ [GitHub](https://github.com/adarshb3)
-
+* 🖥️ [Blogs](https://www.analyticsvidhya.com/blog/author/adarsh2039075/)
