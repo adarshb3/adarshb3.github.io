@@ -11,6 +11,14 @@ author_profile: true
 I led the development of an application aimed at generating actionable insights in expansive business datasets to elevate financial governance. This project encompassed all phases, from liaising with sponsors and faculty mentors, high-level design (HLD) and low-level design (LLD), complete code implementation, large language model (LLM) and agent identification, and testing, to data orchestration and deployment. The result was an AI-powered solution that enhances anomaly detection in business processes using generative AI techniques.
 
 ---
+### Agentic RAG System for Multimodal PDF Querying.
+*Independent Project*
+
+Developed an Agentic RAG System that integrates
+LangChain, OpenAI, Cohere Rerank, and ChromaDB to retrieve and synthesize multimodal content (text, images, tables) from multiple PDFs into context-aware responses, and conducted comprehensive evaluations on its
+accuracy, relevance, and fluency.
+
+---
 ### Virtual Try-On Prototype with Flask, Twilio, and Gradio’s API using IDM-VTON Model.
 *Independent Project*
 
